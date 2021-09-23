@@ -1,0 +1,44 @@
+.answers {
+    cursor: pointer;
+    list-style: none;
+    width: 100px;
+    border: 1px solid black;
+    text-align: center;
+    padding: 5px 0;
+    margin: 10px 0;
+}
+.invisible {
+    display: none;
+}
+
+#btn-who, #btn-dbl {
+    padding: 10px 25px;
+    cursor: pointer;
+    border: 1px solid black;
+    text-align: center;
+    margin: 10px 0;
+    display: block;
+}
+.bg-plum {
+    background: plum;
+}
+
+.bg-green {
+    background-color: limegreen ;
+}
+.bg-red {
+    background-color: rgb(201, 0, 0);
+}
+
+.large{
+    padding: 25px 50px;
+    font-size: large;
+}
+
+.bg-cyan {
+    background-color: cyan !important;
+}
+
+#cnv {
+    border: 5px solid black;
+}
